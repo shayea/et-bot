@@ -1,15 +1,15 @@
-ساخت ربات انتی اسپم
+# Tabchi V3.1
+
+
+
+
 
 
 c9.io
 
 
-new terminal----------------------
-sudo service redis-server start redis-cli
-
-
-
-new terminal----------------------
+## Install
+```bash
 sudo apt-get update
 
 sudo apt-get upgrade
@@ -18,7 +18,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/mamadkiller/antispam2
+git clone https://github.com/punisherteam/PunisherTG
 
 cd antispam2
 
@@ -29,33 +29,31 @@ chmod +x launch.sh
 ./launch.sh
 
 +98......
-
----------------------------
+```
+## set Sudo!
+```
 
 @userinfobot
 
-antispam2/data/confing.lua                        set sudo
-
-----------------------------------------
-
+PunisherTG/data/confing.lua                        set sudo
+```
 
 
-run bot 
-new terminal----------------------
 
+
+## run bot 
+```
 cd $HOME
-
-cd antispam2
-
+cd PunisherTG
 ./launch.sh
+```
 
 
 
 
 
 
-
-By @mamadkiller
-
-https://instagram.com/mamadkiller
-https://telegram.com/mamadkiller
+By  PunisherTeam
+ * [PunisherTM](https://telegram.me/PunisherTM)
+ * [mamadkiller](https://telegram.me/mamadkiller)
+ * [Thepoorya](https://telegram.me/Thepoorya)
