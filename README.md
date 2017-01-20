@@ -5,9 +5,6 @@
 
 
 
-c9.io
-
-
 ## Install
 ```bash
 sudo apt-get update
@@ -35,7 +32,7 @@ chmod +x launch.sh
 
 @userinfobot
 
-PunisherTG/data/confing.lua                        set sudo
+PunisherTG/data/confing.lua                        
 ```
 
 
