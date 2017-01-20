@@ -17,7 +17,7 @@ cd $HOME
 
 git clone https://github.com/punisherteam/PunisherTG
 
-cd antispam2
+cd PunisherTG
 
 chmod +x launch.sh
 
