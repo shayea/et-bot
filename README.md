@@ -1,4 +1,5 @@
-# Antispam V1.1
+# et bot
+anti spam
 
 
 
@@ -15,9 +16,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/punisherteam/PunisherTG
+git clone https://github.com/shayea/et-bot
 
-cd PunisherTG
+cd et-bot
 
 chmod +x launch.sh
 
@@ -32,7 +33,7 @@ chmod +x launch.sh
 
 @userinfobot
 
-PunisherTG/data/confing.lua                        
+et-bot/data/confing.lua                        
 ```
 
 
@@ -41,7 +42,7 @@ PunisherTG/data/confing.lua
 ## run bot 
 ```
 cd $HOME
-cd PunisherTG
+cd et-bot
 ./launch.sh
 ```
 
@@ -50,7 +51,7 @@ cd PunisherTG
 
 
 
-By  PunisherTeam
- * [PunisherTM](https://telegram.me/PunisherTM)
- * [mamadkiller](https://telegram.me/mamadkiller)
- * [Thepoorya](https://telegram.me/Thepoorya)
+By  et-bot
+ * [channel](https://telegram.me/sezar_hack)
+ * [hosein mohseni](https://telegram.me/im_takro)
+
