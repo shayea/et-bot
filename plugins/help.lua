@@ -74,7 +74,8 @@ function run(msg, matches)
 
 〰〰〰〰〰〰〰
     
-✨سازنده  : @PunisherTM✨
+✨سازنده  : et-chata team / sezar team
+    @sezar_hack✨
 </i>]]
 end
 
